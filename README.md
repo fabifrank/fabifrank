@@ -1,1 +1,3 @@
-# Hi, my name is Fabian :)
+# Hi, my name is Fabian ... 
+
+software engineer with passion for data analysis and machine learning. Core skills are fullstack development with react & golang, integrating with kubernetes on different clouds (mainly GCP and AWS).
