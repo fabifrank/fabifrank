@@ -1,6 +1,6 @@
 # Hi, my name is Fabian (◠﹏◠) 
 
-software engineer with passion for data analysis and machine learning.
+software & data engineer with passion for data analysis and machine learning.
 
 ## Stack
 
