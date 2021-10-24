@@ -29,6 +29,6 @@ I am looking forward to interesting chats about the different technologies, so f
 
 ## Some good articles worth reading...
 
-### rsa vs. ed25519
+### Why to pick ed25519 over RSA
 
 "Technical Overview" section: https://cryptsus.com/blog/how-to-secure-your-ssh-server-with-public-key-elliptic-curve-ed25519-crypto.html
