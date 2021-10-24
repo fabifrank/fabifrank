@@ -1,4 +1,4 @@
-# Hi, my name is Fabian (◠﹏◠) 
+# Hi, my name is Fabian
 
 software & data engineer with passion for data analysis and machine learning.
 
