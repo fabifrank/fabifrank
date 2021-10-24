@@ -26,3 +26,7 @@ I really appreciate the work of the ingenious minds at Bitcoin, Ethereum and oth
 ## Contact
 
 I am looking forward to interesting chats about the different technologies, so feel free to touch base at [swift.boat8455@fastmail.com](mailto:swift.boat8455@fastmail.com).
+
+## Some good articles worth reading...
+
+https://cryptsus.com/blog/how-to-secure-your-ssh-server-with-public-key-elliptic-curve-ed25519-crypto.html
