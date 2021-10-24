@@ -32,3 +32,4 @@ I am looking forward to interesting chats about the different technologies, so f
 ### Why to pick ed25519 over RSA keys
 
 "Technical Overview" section: https://cryptsus.com/blog/how-to-secure-your-ssh-server-with-public-key-elliptic-curve-ed25519-crypto.html
+Also: https://git.libssh.org/projects/libssh.git/tree/doc/curve25519-sha256@libssh.org.txt#n10
