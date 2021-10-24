@@ -27,7 +27,7 @@ I really appreciate the work of the ingenious minds at Bitcoin, Ethereum and oth
 
 I am looking forward to interesting chats about the different technologies, so feel free to touch base at [swift.boat8455@fastmail.com](mailto:swift.boat8455@fastmail.com).
 
-## Some good articles worth reading...
+## Worth reading...
 
 ### Why to pick ed25519 over RSA keys
 
