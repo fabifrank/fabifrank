@@ -12,7 +12,7 @@ Started SPA frontend development in 2011 with Backbone JS and soon went to Ember
 
 #### Backend
 
-I really liked the concept of writing code in one language with JavaScript in the beginning cause its easier to build a full stack application but for years I believe thats not entirely "true": the runtime isn't that performant as other compiled binaries running on the server and the JS ecosystem often suffers bugs and versioning issues. Also, without strict TypeScript implementation its horribly easy to write type-unsafe code compared to Go. Some good thing of the interpreted and lazy nature of JS is the abiliy to write unit tests and replace the AST by mocking functions to isolate the test scenario. Some good read on runtime performace for a simple tcp backends: https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go.
+I really liked the concept of writing code in one language with JavaScript in the beginning cause its easier to build a full stack application but for years I believe thats not entirely "true": the runtime isn't that performant as other compiled binaries running on the server and the JS ecosystem often suffers bugs and versioning issues. Also, without strict TypeScript implementation its horribly easy to write type-unsafe code compared to Go. On the other side, what I do like about the interpreted and lazy nature of JS is the abiliy to manipulate the AST at runtime to mock functions and isolate test scenarios. 
 For backends that work with data a lot (ETL) I would (almost) always prefer Python as its driven by a huge ecosystem of data related tools (Tensorflow, Scikit, Numpy, Pandas, Keras and its support for spark). Apart from that, my favourite language of choice is Golang for most cases. And the last one: when it comes to security sensitive applications I would vote for Rust although it has some new concepts that are hard to implement in the moves when learning like borrowing - but it introduces a decent amout of more error soures that the RUST compiler can spot which most other popular languages aren't able to.
 
 #### Infrastructure / Operations
@@ -33,3 +33,7 @@ I am looking forward to interesting chats about the different technologies, so f
 
 - "Technical Overview" section: https://cryptsus.com/blog/how-to-secure-your-ssh-server-with-public-key-elliptic-curve-ed25519-crypto.html
 - https://git.libssh.org/projects/libssh.git/tree/doc/curve25519-sha256@libssh.org.txt#n10
+
+### Go vs JS
+
+- Benchmarking a simple TCP backend: https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go.
